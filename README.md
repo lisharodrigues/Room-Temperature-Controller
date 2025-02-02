@@ -52,7 +52,7 @@ This project demonstrates a simple room temperature controller using an Arduino 
 
 **Note:**
 
-* This is a basic example and can be further enhanced. 
+* This can be further enhanced. 
 * Consider adding features like:
     * Hysteresis to prevent frequent on/off cycles of the cooling device.
     * User-defined temperature thresholds.
